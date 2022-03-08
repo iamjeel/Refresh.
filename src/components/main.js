@@ -1,5 +1,6 @@
 
 import useContextMenu from './useContextMenu';
+import '../assets/App.css'
 
 const Main = () => {
   const { anchorPoint, show } = useContextMenu();
